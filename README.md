@@ -1,1 +1,1 @@
-# Discord Rich Presence SDK
+# Discord RPC
